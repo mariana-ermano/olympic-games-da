@@ -19,4 +19,4 @@ The analysis will be focused on whether there is an impact on the number of athl
 
 ### [Full Study](https://drive.google.com/file/d/1Gc000yR6ssMjGlVuPo-EL4l3mByPC3j2/view "Full Case Study")
 ### [Databricks notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4905453211705459/4412480016126548/7668150192767715/latest.html "SQL code and output in tables and graphs")
-### [Analysis (SQL)](https://github.com/mariana-ermano/fitness-tracker-da/blob/main/Olympic_Games_DA.sql "Analysis in SQL")
+### [Analysis (SQL)](https://github.com/mariana-ermano/olympic-games-da/blob/main/Olympic_Games_DA.sql "Analysis in SQL")
